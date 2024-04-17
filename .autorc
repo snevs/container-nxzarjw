@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "snevs",
+  "repo": "container-nxzarjw",
+  "name": "snevs",
+  "email": "ww12z@yahoo.com",
+}
